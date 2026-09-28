@@ -1,0 +1,16 @@
+# Data & Saved Artifacts
+data/
+artifacts/*.joblib
+artifacts/*.pkl
+.env
+
+# Environments & Packages
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE & Jupyter Notebooks
+.vscode/
+.ipynb_checkpoints/
+.clearml/
